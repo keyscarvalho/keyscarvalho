@@ -3,7 +3,7 @@
 
 # Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas 
+🎓: Estudante de Análise e Desenvolvimento de Sistemas 
 
 🌱: Estou estudando com foco em Ciência de Dados
 
