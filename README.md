@@ -23,7 +23,7 @@
 
 # Projetos 🎨
 
-[Análise de Dados da Hanseníase no Brasil](https://github.com/keyscarvalho/hanseniase_brasil/blob/main/analises.ipynb): 
+[Análise de Dados da Hanseníase no Brasil:](https://github.com/keyscarvalho/hanseniase_brasil/blob/main/analises.ipynb) 
  O objetivo deste projeto foi entender o comportamento da hanseníase no Brasil ao longo dos anos e por que o Brasil ainda ocupa o 2º lugar no mundo com maior número de casos da doença.
 ***
 
