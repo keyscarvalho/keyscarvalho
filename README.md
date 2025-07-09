@@ -18,3 +18,13 @@
 <a href="kscarvalho10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/keyscarvalho"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
+
+***
+
+# Projetos 🎨
+
+***
+[Análise de Dados da Hanseníase no Brasil](https://github.com/keyscarvalho/hanseniase_brasil/blob/main/analises.ipynb)
+***
+
+
