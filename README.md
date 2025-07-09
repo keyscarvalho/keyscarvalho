@@ -23,7 +23,6 @@
 
 # Projetos 🎨
 
-***
 [Análise de Dados da Hanseníase no Brasil](https://github.com/keyscarvalho/hanseniase_brasil/blob/main/analises.ipynb)
 ***
 
