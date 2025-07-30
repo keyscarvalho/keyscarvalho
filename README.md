@@ -23,8 +23,10 @@
 
 # Projetos 🎨
 
-[Análise de Dados da Hanseníase no Brasil:](https://github.com/keyscarvalho/hanseniase_brasil/blob/main/analises.ipynb) 
- O objetivo deste projeto foi entender o comportamento da hanseníase no Brasil ao longo dos anos e por que o Brasil ainda ocupa o 2º lugar no mundo com maior número de casos da doença.
+[Análise de Dados da Hanseníase no Brasil: ](https://github.com/keyscarvalho/hanseniase_brasil/blob/main/analises.ipynb)O objetivo deste projeto foi entender o comportamento da hanseníase no Brasil ao longo dos anos e por que o Brasil ainda ocupa o 2º lugar no mundo com maior número de casos da doença.
+
+[Predição de Turnover de Funcionários com Machine Learning: ](https://github.com/keyscarvalho/predicao_turnover/blob/main/analise.ipynb)Este foi um projeto realizado como parte do Bootcamp [Re]Start Data Girls, da trilha Cientista de Dados, com objetivo de construir um modelo preditivo que identifique padrões de rotatividade e ajude a empresa a prever quais colaboradores têm maior propensão a sair da organização.
+
 ***
 
 
